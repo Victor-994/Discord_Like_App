@@ -1,6 +1,6 @@
 # Discord_Like_App
 
-I made a Discor Like App. 
+I made a Discord Like App. 
 
 # Install virtualenv first
 pip install virtualenv
